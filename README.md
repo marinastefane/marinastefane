@@ -4,8 +4,8 @@
   
 <div align = "center">
     <a href="https://github.com/marinastefane">
-    <img width = "50.1%" align = "center" src = "https://github-readme-stats.vercel.app/api?username=marinastefane&theme=radical&show_icons=true"/>
-    <img width = 45.01% align = "center"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinastefane&layout=compact&theme=radical" />
+    <img heigth = "145em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=marinastefane&theme=radical&show_icons=true"/>
+    <img heigth = "145em" align = "center"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinastefane&layout=compact&theme=radical" />
 </div>
 
 ##
