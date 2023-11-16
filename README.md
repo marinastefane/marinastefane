@@ -1,10 +1,10 @@
 ### Oii eu sou a Marina!!
 - 🔭 Estou cursando Engenharia de Computação no CEFET-MG.
   
-<div align = "center">
+<div align="center">
     <a href="https://github.com/marinastefane">
-    <img height = 144 src = "https://github-readme-stats.vercel.app/api?username=marinastefane&theme=radical&show_icons=true"/>
-    <img height = 144 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marinastefane&layout=compact&langs-count=7&theme=radical"/>
+    <img height="144em" src="https://github-readme-stats.vercel.app/api?username=marinastefane&theme=radical&show_icons=true"/>
+    <img height="144em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinastefane&layout=compact&langs-count=7&theme=radical"/>
 </div>
 
 ##
