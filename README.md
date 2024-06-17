@@ -14,7 +14,7 @@
 
 ## ⌛ Linguagens conhecidas e em estudo
           
-[![My Skills](https://skillicons.dev/icons?i=c,java,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,cpp,javascript,html,css,)](https://skillicons.dev)
 
 ## 📫 Contato
 
