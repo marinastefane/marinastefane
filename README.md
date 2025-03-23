@@ -3,7 +3,7 @@
 
 - 💻 Estudante de Programação.
 - 🎓 Cursando Engenharia de Computação - CEFET-MG.
-- 🌱 Aprendendo sobre C++.
+- 🌱 Aprendendo C++.
   
 <div align="center">
     <a href="https://github.com/marinastefane">
@@ -14,7 +14,7 @@
 
 ## ⌛ Linguagens conhecidas e em estudo
           
-[![My Skills](https://skillicons.dev/icons?i=c,java,cpp,javascript,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,javascript,html,css,)](https://skillicons.dev)
 
 ## 📫 Contato
 
